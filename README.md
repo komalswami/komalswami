@@ -32,9 +32,5 @@ Hi, I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enth
 
 
 
-**Languages and Tools:**  
-
-
-
 
 
