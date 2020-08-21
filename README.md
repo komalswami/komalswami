@@ -15,9 +15,6 @@ Hi, I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enth
 - 😄 Pronouns: she/her 
 - 📌 [Google DSC Lead](https://developers.google.com/community/dsc) at MBE's COEA
 
-
-
-
 <a href="https://www.linkedin.com/in/komal-swami-4a539117a/">
   <img align="left" alt="Komal's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
