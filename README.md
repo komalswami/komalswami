@@ -12,7 +12,7 @@ Hi, I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enth
 - 🌱 I’m currently learning Docker and Ruby on rails
 - 💬 Ask me how to google efficiently
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her <br/>
 -📌 [Google DSC Lead](https://developers.google.com/community/dsc) at MBE's COEA
 
 
