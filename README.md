@@ -4,7 +4,7 @@
 
 <br/>
 
-Hi, I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enthusiastic.
+I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enthusiastic.
   
 **Talking about Personal Stuffs:**
 
