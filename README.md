@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 
 <br/>
 
@@ -21,7 +21,7 @@ I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enthusia
 <a href="https://github.com/komalswami">
   <img align="left" alt="Komal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-swami-4a539117a)
+
 <br/>
 <br/>
 
