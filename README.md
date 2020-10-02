@@ -21,6 +21,7 @@ I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enthusia
 <a href="https://github.com/komalswami">
   <img align="left" alt="Komal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+[<img align="left" alt="Komal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/komal-swami-4a539117a)
 <br/>
 <br/>
 
