@@ -9,7 +9,7 @@ I'm Komal Swami, a Full Stack Devloper ,Machine learning /Deep learning enthusia
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m looking for contributing in open source projects
-- 🌱 I’m currently learning Docker and Ruby on rails
+- 🌱 I’m currently learning React
 - 💬 Ask me how to google efficiently
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
 - 😄 Pronouns: she/her 
