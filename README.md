@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I'm looking for contributing in open source projects
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning everything
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
 - 😄 Pronouns: she/her 
 - 📌 [DSC Lead](https://developers.google.com/community/dsc) at MBE's COEA
