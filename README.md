@@ -4,9 +4,6 @@
 
 <br/>
 
-  
-**Talking about Personal Stuffs:**
-
 - 🔭 I’m looking for contributing in open source projects
 - 🌱 I’m currently learning React
 - 💬 Ask me how to google efficiently
