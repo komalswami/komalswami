@@ -2,6 +2,7 @@
 
 ### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 <br/>
+
 - 🔭 I'm looking for contributing in open source projects
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
