@@ -19,6 +19,10 @@
   <img align="left" alt="Komal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="komalsswami@gmail.com">
+  <img align="left" alt="Komal's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 <br/><br/>
 
 <a href="https://github.com/komalswami">
