@@ -30,8 +30,6 @@
  <br/>
  
  
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalswami&layout=compact)](https://github.com/komalswami/github-readme-stats)
 
 
 
