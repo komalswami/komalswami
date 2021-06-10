@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
 - 😄 Pronouns: she/her 
-- 📌 [DSC Lead](https://developers.google.com/community/dsc) at MBE's COEA
+- 📌 [DSC Lead](https://developers.google.com/community/dsc) at MBES COEA
 - ⚡ Fun Fact: Always up for contributing to interesting projects
 
 <a href="https://www.linkedin.com/in/komal-swami-4a539117a/">
