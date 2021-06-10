@@ -28,6 +28,7 @@
 <a href="https://github.com/komalswami">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=dracula&line_height=27" alt="Komal's github stats"/> </a> 
  <br/>
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalswami&layout=compact)](https://github.com/komalswami/github-readme-stats)
 
 
