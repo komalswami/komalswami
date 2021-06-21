@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
 - 😄 Pronouns: she/her 
 - 📌 [DSC Lead](https://developers.google.com/community/dsc) at MBES COEA
-- ⚡ Fun Fact: The first computer bug was an actual bug
+- ⚡ Fun Fact: Python was NOT named after a snake
 
 <a href="https://www.linkedin.com/in/komal-swami-4a539117a/">
   <img align="left" alt="Komal's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
