@@ -1,5 +1,3 @@
-### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
-
 ![image](https://user-images.githubusercontent.com/46648301/131091619-2a345d07-87fd-4fa0-83ad-0fd3f7ddd4db.png)
 
 
