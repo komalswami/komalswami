@@ -24,7 +24,7 @@
  <br/>
  <br/>
  
-[![Komal Swami Medium](https://github-readme-medium.vercel.app/?username=komalsswami)](https://komalsswami.medium.com/)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
 
 
