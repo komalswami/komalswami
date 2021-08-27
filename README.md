@@ -22,7 +22,7 @@
 <a href="https://github.com/komalswami">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=dracula&line_height=27" alt="Komal's github stats"/> </a> 
  <br/>
- 
+ <br/>
  
 [![Komal Swami Medium](https://github-readme-medium.vercel.app/?username=komalsswami)](https://komalsswami.medium.com/)
  
