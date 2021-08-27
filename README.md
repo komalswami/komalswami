@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/46648301/131091619-2a345d07-87fd-4fa0-83ad-0fd3f7ddd4db.png)
 
+## About me
 
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
@@ -20,7 +21,7 @@
 
 
 <a href="https://github.com/komalswami">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=dracula&line_height=27" alt="Komal's github stats"/> </a> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=default_repocard&line_height=27" alt="Komal's github stats"/> </a> 
  <br/>
  <br/>
  
