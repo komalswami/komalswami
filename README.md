@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [komalswami.github.io/me.github.io/](komalswami.github.io/me.github.io/)
 
-- 📝 I regularly write articles on [https://komalsswami.medium.com/](https://komalsswami.medium.com/)
+- 📝 I write articles on [https://komalsswami.medium.com/](https://komalsswami.medium.com/)
 
 - 💬 Ask me about **how to google effectively**
 
