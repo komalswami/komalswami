@@ -1,8 +1,5 @@
 ### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: [Komal Swami](https://www.linkedin.com/in/komal-swami-4a539117a)
@@ -22,13 +19,11 @@
 
 
 
-
-
-
 <a href="https://github.com/komalswami">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=dracula&line_height=27" alt="Komal's github stats"/> </a> 
  <br/>
  
+[![Komal Swami Medium](https://github-readme-medium.vercel.app/?username=komalswami)](https://komalsswami.medium.com/)
  
 
 
