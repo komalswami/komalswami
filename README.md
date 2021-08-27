@@ -1,14 +1,6 @@
-<a href="https://github.com/komalswami">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalswami&show_icons=true&theme=default_repocard&line_height=27" alt="Komal's github stats"/> </a> 
- <br/>
- <br/>
- 
- <h1 align="center">Hi 👋, I'm Komal swami</h1>
+
+<h1 align="center">Hi 👋, I'm Komal swami</h1>
 <h3 align="center">A passionate full stack developer and ML enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalswami&label=Profile%20views&color=0e75b6&style=flat" alt="komalswami" /> </p>
-
-<p align="left"> <a href="https://twitter.com/techera41746442" target="blank"><img src="https://img.shields.io/twitter/follow/techera41746442?logo=twitter&style=for-the-badge" alt="techera41746442" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
