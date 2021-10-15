@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://komalsswami.medium.com/](https://komalsswami.medium.com/)
 
-- 💬 Ask me about **how to google effectively**
+- 💬 Ask me  **how to google effectively**
 
 - 📫 How to reach me **komalsswami@gmail.com**
 
