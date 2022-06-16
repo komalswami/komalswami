@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [komalswami.github.io/me.github.io/](komalswami.github.io/me.github.io/)
+- 👨‍💻 All of my projects are available at [komalswami.github.io](https://komalswami.github.io/me.github.io/)
 
 - 📝 I write articles on [https://komalsswami.medium.com/](https://komalsswami.medium.com/)
 
