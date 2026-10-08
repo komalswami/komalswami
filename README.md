@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Full Stack Software Engineer with **4+ years of professional experience**
+- 💻 Professional experience across backend engineering, full-stack development, cloud deployment, and production systems**
 - 🐍 Experienced in **Python, Django REST Framework, Flask, and REST API development**
 - ⚛️ Build frontend applications using **React.js and JavaScript**
 - 🗄️ Work with **PostgreSQL, MySQL, SQLite, and database architecture**
